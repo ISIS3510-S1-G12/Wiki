@@ -5,11 +5,11 @@
   <sub>Section 1 – Group #</sub>
 </p>
 
-<h1 align="center">✨ Welcome to  The Mobile App Development Wiki ✨</h1>
+<h1 align="center">✨ Welcome to The Mobile App Development Group 14(?) Wiki ✨</h1>
 
 
-## 🧩 ¿What is this?
-This is our repository for the course. Here you will find the app documentation, sprint deliverables, and other resources that showcase our progress. 
+## 🧩 What is this?
+This is our repository for the course Mobile App Development. Here you will find the app documentation, sprint deliverables, and other resources that showcase our progress. 
 - **Problem it solves:** TBD
 - **For whom:** TBD 
   

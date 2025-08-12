@@ -1,9 +1,10 @@
 <!-- TITLE + HERO -->
 <p align="center">
-  <img src="https://placehold.co/140x140" alt="Banner" width="140" />
+  <img src="https://github.com/user-attachments/assets/0565d8ce-d697-4191-a8bb-04fd4a7ca875" alt="Banner" width="140" />
   <br>
   <sub>Section 1 – Group #</sub>
 </p>
+
 
 <h1 align="center">✨ Welcome to The Mobile App Development Group 14(?) Wiki ✨</h1>
 
@@ -27,8 +28,9 @@ This is our repository for the course Mobile App Development. Here you will find
 
 **Core team — 6 humans, one mission.**
 
-| ![{{NAME_1}}](https://placehold.co/140x140?text={{NAME_1}}) | ![{{NAME_2}}](https://placehold.co/140x140?text={{NAME_2}}) | ![{{NAME_3}}](https://placehold.co/140x140?text={{NAME_3}}) |
+
+| <img src="https://github.com/user-attachments/assets/51f0b43d-d745-4f37-83de-5077dedbf94f" alt="{{NAME_1}}" width="140" height="140" style="object-fit:cover;" /> |  <img src="https://github.com/user-attachments/assets/62667e04-4c70-4a0e-8089-81aef785ea4a" alt="{{NAME_2}}" width="140" height="140" style="object-fit:cover;" /> |  <img src="https://github.com/user-attachments/assets/baeaf06c-5259-494f-9425-4cae5d692b3f" alt="{{NAME_1}}" width="140" height="140" style="object-fit:cover;" /> |
 |:--:|:--:|:--:|
-| **{{NAME_1}}**  \| _{{ROLE_1}}_  \| [GitHub]({{GITHUB_1}}) · {{EMAIL_1}} | **{{NAME_2}}**  \| _{{ROLE_2}}_  \| [GitHub]({{GITHUB_2}}) · {{EMAIL_2}} | **{{NAME_3}}**  \| _{{ROLE_3}}_  \| [GitHub]({{GITHUB_3}}) · {{EMAIL_3}} |
+| **Gabriela Escobar** · Git: @gabrielaeescobar |**María Pinzon** · Git: @MariaaPinzon | **Rodrigo Paz** · Git: @rodrigopaz03 |
 | ![{{NAME_4}}](https://placehold.co/140x140?text={{NAME_4}}) | ![{{NAME_5}}](https://placehold.co/140x140?text={{NAME_5}}) | ![{{NAME_6}}](https://placehold.co/140x140?text={{NAME_6}}) |
 | **{{NAME_4}}**  \| _{{ROLE_4}}_  \| [GitHub]({{GITHUB_4}}) · {{EMAIL_4}} | **{{NAME_5}}**  \| _{{ROLE_5}}_  \| [GitHub]({{GITHUB_5}}) · {{EMAIL_5}} | **{{NAME_6}}**  \| _{{ROLE_6}}_  \| [GitHub]({{GITHUB_6}}) · {{EMAIL_6}} |

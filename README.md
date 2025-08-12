@@ -37,3 +37,4 @@ This is our repository for the course Mobile App Development. Here you will find
 | **Angelica Ortiz**  · Git: @AngelicaOrtizB | **Daniela Torres**  · Git: @DanielaTorresT | **{{NAME_6}}** · _{{ROLE_6}}_ · [GitHub]({{GITHUB_6}}) · {{EMAIL_6}} |
 
 
+

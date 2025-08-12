@@ -34,7 +34,7 @@ This is our repository for the course Mobile App Development. Here you will find
 |:--:|:--:|:--:|
 | **Gabriela Escobar** · Git: @gabrielaeescobar | **María Pinzon** · Git: @MariaaPinzon | **Rodrigo Paz** · Git: @rodrigopaz03 |
 | <img src="https://github.com/user-attachments/assets/a789ce67-f0f4-4ab0-a5bc-ce9c0cafe142" alt="{{NAME_4}}" width="140" height="140" style="object-fit:cover;" /> | <img src="https://github.com/user-attachments/assets/bf54c2e7-38cf-4339-aa99-e396d4ba849e" alt="Daniela Torres" width="140" height="140" style="object-fit:cover;" />| ![{{NAME_6}}](https://placehold.co/140x140?text={{NAME_6}}) |
-| **Angelica Ortiz**  · Git: @AngelicaOrtizB | **Daniela Torres**  · Git: @DanielaTorresT | **{{NAME_6}}** · _{{ROLE_6}}_ · [GitHub]({{GITHUB_6}}) · {{EMAIL_6}} |
+| **Angelica Ortiz**  · Git: @AngelicaOrtizB | **Daniela Torres**  · Git: @DanielaTorresT | **Maria Alejandra Londoño** · Git: @Malejandralondono |
 
 
 

@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0565d8ce-d697-4191-a8bb-04fd4a7ca875" alt="Banner" width="140" />
   <br>
-  <sub>Section 1 – Group #</sub>
+  <sub>Section 1 – Group 12</sub>
 </p>
 
 
-<h1 align="center">✨ Welcome to The Mobile App Development Group 14(?) Wiki ✨</h1>
+<h1 align="center">✨ Welcome to The Mobile App Development Wiki ✨</h1>
 
 
 ## 🧩 What is this?

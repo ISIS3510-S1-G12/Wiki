@@ -1,9 +1,10 @@
 <!-- TITLE + HERO -->
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/0565d8ce-d697-4191-a8bb-04fd4a7ca875](https://private-user-images.githubusercontent.com/123746330/481066387-c584f40b-68a0-4e79-a8c9-0bdfb7ef3778.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY0NzE3MjIsIm5iZiI6MTc1NjQ3MTQyMiwicGF0aCI6Ii8xMjM3NDYzMzAvNDgxMDY2Mzg3LWM1ODRmNDBiLTY4YTAtNGU3OS1hOGM5LTBiZGZiN2VmMzc3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyOVQxMjQzNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzAwYTdhNDUwMmE2YjQzYTMwNmI0YjM4OTgyOGFlMGJjMWE3MzJhNzE4NWY0Y2ZiMTU3ODdkNTAzMmRlYjk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wdKXxdrQnj3NYGZKTtjQsMGIeOplwJ2Iu32dK_qCTE8)" alt="Banner" width="140" />
+  
   <br>
   <sub>Section 1 – Group 12</sub>
 </p>
+<img width="2000" height="2000" alt="481066387-c584f40b-68a0-4e79-a8c9-0bdfb7ef3778" src="https://github.com/user-attachments/assets/572ccbcd-1cb4-45f1-bdc0-a23edc836b45" />
 
 
 <h1 align="center">✨ Welcome to The Mobile App Development Wiki ✨</h1>
